@@ -1,0 +1,10 @@
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\bin\Debug\Double Pendulum.exe.config
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\bin\Debug\Double Pendulum.exe
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\bin\Debug\Double Pendulum.pdb
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double Pendulum.csprojAssemblyReference.cache
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double_Pendulum.Form1.resources
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double_Pendulum.Properties.Resources.resources
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double Pendulum.csproj.GenerateResource.cache
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double Pendulum.csproj.CoreCompileInputs.cache
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double Pendulum.exe
+E:\Recordings\Double Pendulum\Double Pendulum\Double Pendulum\obj\Debug\Double Pendulum.pdb
